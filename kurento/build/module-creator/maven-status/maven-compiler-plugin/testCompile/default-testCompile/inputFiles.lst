@@ -1,0 +1,11 @@
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/CustomNpmPackTest.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/SemVerTests.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/ReleaseModuleWithDevDependTest.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/CustomMavenPomTest.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/KurentoCodeGeneration.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/VersionManagerTest.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/NamespacesTest.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/CodeGenerationTest.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/ImportModulesTest.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/NpmVersionTest.java
+/home/dprokof/PycharmProjects/webRTC/kurento/server/module-creator/src/test/java/org/kurento/modulecreator/test/ImportModulesWithRangesTest.java

@@ -1,0 +1,11 @@
+org/kurento/modulecreator/test/ImportModulesWithRangesTest.class
+org/kurento/modulecreator/test/ImportModulesTest.class
+org/kurento/modulecreator/test/CodeGenerationTest.class
+org/kurento/modulecreator/test/VersionManagerTest.class
+org/kurento/modulecreator/test/SemVerTests.class
+org/kurento/modulecreator/test/NamespacesTest.class
+org/kurento/modulecreator/test/ReleaseModuleWithDevDependTest.class
+org/kurento/modulecreator/test/CustomNpmPackTest.class
+org/kurento/modulecreator/test/KurentoCodeGeneration.class
+org/kurento/modulecreator/test/CustomMavenPomTest.class
+org/kurento/modulecreator/test/NpmVersionTest.class
